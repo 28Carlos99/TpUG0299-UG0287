@@ -1,0 +1,19 @@
+{
+  "name": "tpug0299-ug0287",
+  "version": "1.0.0",
+  "description": "Trabajo Practico 2 Duo Carlos Gonzalez - Sinthia Cristaldo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "UG0299-UG0287",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.12.0-alpha.1"
+  }
+}
